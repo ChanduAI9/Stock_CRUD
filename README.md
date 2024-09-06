@@ -14,8 +14,8 @@ A simple full-stack web application for managing stocks. The application allows 
 - PostgreSQL database integration.
 
 ## Tech Stack
-- **Backend**: Django, Django Rest Framework
-- **Database**: PostgreSQL
+- #Backend: Django, Django Rest Framework
+- #Database: PostgreSQL
 - **Frontend**: HTML, CSS (Bootstrap), JavaScript (Fetch API)
 - **Environment**: Python 3.x
 
