@@ -1,0 +1,65 @@
+/* General Page Styling */
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: #f8f9fa;
+}
+
+h1 {
+    font-weight: bold;
+}
+
+.card {
+    border: 1px solid #ddd;
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+}
+
+/* Styling the Stock List */
+#stockList {
+    list-style-type: none;
+    padding: 0;
+}
+
+#stockList li {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 15px;
+    background-color: #fff;
+    margin-bottom: 5px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.05);
+}
+
+#stockList li span {
+    font-size: 18px;
+    font-weight: 500;
+}
+
+#stockList button {
+    margin-left: 10px;
+}
+
+.edit, .delete {
+    padding: 6px 12px;
+    font-size: 14px;
+    border-radius: 4px;
+}
+
+.edit {
+    background-color: #ffc107;
+    color: #fff;
+}
+
+.delete {
+    background-color: #dc3545;
+    color: #fff;
+}
+
+.edit:hover {
+    background-color: #e0a800;
+}
+
+.delete:hover {
+    background-color: #c82333;
+}
