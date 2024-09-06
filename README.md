@@ -7,17 +7,6 @@ Here’s a sample `README.md` file for your Django project integrated with Postg
 
 A simple full-stack web application for managing stocks. The application allows users to add, view, edit, and delete stocks using a Django Rest Framework backend and a Bootstrap-enhanced frontend. PostgreSQL is used as the database for this project.
 
-## Table of Contents
-- [Features](#features)
-- [Tech Stack](#tech-stack)
-- [Setup Instructions](#setup-instructions)
-  - [Prerequisites](#prerequisites)
-  - [Installation](#installation)
-  - [Database Setup](#database-setup)
-  - [Run the Application](#run-the-application)
-- [API Endpoints](#api-endpoints)
-- [Frontend Features](#frontend-features)
-
 ## Features
 - Add, view, edit, and delete stock records.
 - Responsive design using Bootstrap.
