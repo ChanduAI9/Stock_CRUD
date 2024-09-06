@@ -123,22 +123,4 @@ The following API endpoints are available for managing stocks:
 
 ---
 
-## License
-This project is licensed under the MIT License. See the LICENSE file for details.
 
----
-
-## Contributing
-If you wish to contribute, feel free to fork this repository and submit a pull request.
-```
-
-### Summary of What’s Included:
-- **Project Description**: Brief overview of what the project does.
-- **Tech Stack**: Lists all the technologies and frameworks used.
-- **Setup Instructions**: Step-by-step instructions on how to install dependencies, set up PostgreSQL, and configure Django.
-- **Database Setup**: Clear instructions for creating a PostgreSQL database and updating the Django settings.
-- **Running the Application**: Instructions for running the Django development server.
-- **API Endpoints**: Lists available API endpoints and shows sample JSON for creating or updating a stock.
-- **Frontend Features**: Explains what users can do on the frontend of the app.
-
-You can adjust the instructions as needed to fit your specific project, and then push this `README.md` file to your GitHub repository. Let me know if you need any changes!
