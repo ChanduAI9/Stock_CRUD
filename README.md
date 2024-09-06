@@ -14,23 +14,23 @@ A simple full-stack web application for managing stocks. The application allows 
 - PostgreSQL database integration.
 
 ## Tech Stack
-- #Backend: Django, Django Rest Framework
-- #Database: PostgreSQL
-- **Frontend**: HTML, CSS (Bootstrap), JavaScript (Fetch API)
-- **Environment**: Python 3.x
+- Backend: Django, Django Rest Framework
+- Database: PostgreSQL
+- Frontend: HTML, CSS (Bootstrap), JavaScript (Fetch API)
+- Environment: Python 3.x
 
 ## Setup Instructions
 
 ### Prerequisites
 Ensure you have the following installed:
-- **Python 3.x**: [Download Python](https://www.python.org/downloads/)
-- **PostgreSQL**: [Download PostgreSQL](https://www.postgresql.org/download/windows/)
-- **Git**: [Download Git](https://git-scm.com/downloads)
-- **pip** (Python package installer)
+- Python 3.x: [Download Python](https://www.python.org/downloads/)
+- PostgreSQL: [Download PostgreSQL](https://www.postgresql.org/download/windows/)
+- Git: [Download Git](https://git-scm.com/downloads)
+- pip (Python package installer)
 
 ### Installation
 
-1. **Clone the repository**:
+1. Clone the repository:
    ```bash
    git clone https://github.com/your-username/stock-manager.git
    cd stock-manager
@@ -49,11 +49,11 @@ Ensure you have the following installed:
 
 ### Database Setup
 
-1. **Install PostgreSQL**:
+1. Install PostgreSQL:
    - Download and install PostgreSQL from [PostgreSQL Download Page](https://www.postgresql.org/download/windows/).
    - Set up a PostgreSQL user and a database.
 
-2. **Create a PostgreSQL Database**:
+2. Create a PostgreSQL Database:
    - Open `psql` or **pgAdmin 4** and run the following commands to create a user and database:
      ```sql
      CREATE USER myuser WITH PASSWORD 'mypassword';
